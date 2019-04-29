@@ -1,6 +1,6 @@
 # HCI_Project
 
-#Setting up Front end server
+<stong>Setting up Front end server</strong>
 
 Clone the repository<br/>
 Enter the base repository<br/>
